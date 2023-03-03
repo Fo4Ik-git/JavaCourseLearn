@@ -37,7 +37,7 @@ public class Collectionss {
 
         list.remove("2");
 
-        System.out.println("List get 1: " + list.get(1));
+        System.out.println("List get 1: " + list.get(0));
 
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
@@ -49,18 +49,23 @@ public class Collectionss {
         //We can use set to set value to specific index
         list.set(1, "4");
         //We can use add to add value to specific index
-        list.add(3, "5");
+        list.add(0, "5");
 
         list.forEach(System.out::println);
         System.out.println("_____________________________");
 
 
-        //Set is a Collection that cannot contain duplicate elements.
-        Set set = new HashSet<>();
+
         //Queue is a collection designed for holding elements prior to processing.
         Queue queue = new PriorityQueue<>();
+        //Set is a Collection that cannot contain duplicate elements.
+        Set set = new HashSet<>();
+        //TreeSet is a sorted set implementation. The elements are ordered using their natural ordering, or by a Comparator provided at set creation time, depending on which constructor is used.
+        Set treeSet = new TreeSet<>();
         //Map is an object that maps keys to values. A map cannot contain duplicate keys; each key can map to at most one value.
         Map map = new HashMap<>();
+
+
 
 
     }
