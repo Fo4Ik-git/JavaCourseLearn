@@ -1,4 +1,4 @@
-package com.fo4ik.Methods;
+package com.fo4ik.methods;
 
 public class Methods {
 
