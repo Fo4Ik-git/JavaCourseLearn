@@ -4,11 +4,15 @@ public class StringExample {
 
     public static void main(String[] args) {
         String str = new String("abc");
+        //String str = "abc";
+
+        //Concat string int add method
         str.concat("def");
         System.out.println(str);    //abc
         String str2 = str.concat("def");
         System.out.println(str2);   //abcdef
     }
+
 }
 
 class StringBufferExample {
@@ -19,6 +23,13 @@ class StringBufferExample {
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append("def");
         System.out.println(stringBuffer);    //def
+
+        stringBuffer.delete(0, 3);
+        System.out.println(stringBuffer);    //empty
+
+        stringBuffer.append("abc");
+        stringBuffer.replace(1, 3, "gh");
+        System.out.println(stringBuffer);    //agh
     }
 }
 
