@@ -1,18 +1,25 @@
 package com.fo4ik.variable;
 
+import java.util.*;
+
 public class Variable {
 
-    //Variable is a name given to a storage area that our programs can manipulate. Each variable in Java has a specific type, which determines the size and layout of the variable's memory; the range of values that can be stored within that memory; and the set of operations that can be applied to the variable.
-    //Primitive data types are predefined by the language and named by a keyword.
-    //Non-primitive data types are created by the programmer and is not defined by the language. Non-primitive types are created by using predefined keywords.
-    //Primitive data types:
-    //byte, short, int, long, float, double, boolean, char
-    //Non-primitive data types:
-    //String, Arrays, Classes, Interfaces
-    //Primitive data types are stored in stack memory, non-primitive data types are stored in heap memory.
-    //Primitive data types are faster than non-primitive data types.
-    //Primitive data types are immutable, non-primitive data types are mutable.
-    //Primitive data types are passed by value, non-primitive data types are passed by reference.
+    /**
+     * Variable is a name given to a storage area that our programs can manipulate. Each variable in Java has a specific type, which determines the size and layout of the variable's memory; the range of values that can be stored within that memory; and the set of operations that can be applied to the variable.
+     * Primitive data types are predefined by the language and named by a keyword.
+     * Non-primitive data types are created by the programmer and is not defined by the language. Non-primitive types are created by using predefined keywords.
+     *
+     * Primitive data types:
+     * byte, short, int, long, float, double, boolean, char
+     *
+     * Non-primitive data types:
+     * {@link String}, {@link Arrays}, {@link Class}, Interface, {@link Enum}
+     *
+     * Primitive data types are stored in stack memory, non-primitive data types are stored in heap memory.
+     * Primitive data types are faster than non-primitive data types.
+     * Primitive data types are immutable, non-primitive data types are mutable.
+     * Primitive data types are passed by value, non-primitive data types are passed by reference.
+     **/
 
     public static void main(String[] args) {
         //byte is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive). The byte data type can be useful for saving memory in large arrays, where the memory savings actually matters. They can also be used in place of int where their limits help to clarify your code; the fact that a variable's range is limited can serve as a form of documentation.
@@ -39,7 +46,6 @@ public class Variable {
         int[] intArray = {1, 2, 3, 4, 5};
         //Classes are used to create user-defined types. Classes are the basics of object-oriented programming.
         //Interfaces are used to achieve abstraction. There can be only abstract methods in the interface, not method body. It is used to achieve abstraction and multiple inheritance in Java.
-
 
 
     }
