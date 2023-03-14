@@ -1,4 +1,4 @@
-package com.fo4ik.exeptions;
+package com.fo4ik.exceptions;
 
 public class Exeptions {
 

@@ -1,6 +1,4 @@
-package com.fo4ik.assetrions;
-
-import com.sun.tools.javac.Main;
+package com.fo4ik.assertions;
 
 public class Assertions {
     public static void main(String[] args) {
