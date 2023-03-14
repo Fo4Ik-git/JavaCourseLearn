@@ -1,9 +1,9 @@
 package com.fo4ik.exceptions;
 
-public class Exeptions {
+public class Exception {
 
     public static void main(String[] args) {
-        new Exeptions().printSome();
+        new Exception().printSome();
     }
 
     void printSome() {
@@ -18,7 +18,7 @@ public class Exeptions {
             System.out.println("Null pointer exception catched");
         } catch (RuntimeException e) {
             System.out.println("Runtime exception catched");
-        } catch (Exception e) {
+        } catch (java.lang.Exception e) {
             System.out.println("Exception catched");
         } finally {
             System.out.println("Finally block executed");
