@@ -20,7 +20,9 @@ public class Sort {
         set.add(new Person1(4));
         set.add(new Person1(2));*/
 
-        //Compile error because Set don`t know how to sort Person1, because we don`t implement Comparable. Fix that in Person2 class
+        /**
+         * Compile error because Set don`t know how to sort Person1, because we don`t implement {@link Comparable}. Fix that in Person2 class
+         */
         printSet(set);
         set = new TreeSet<>();
 
@@ -31,7 +33,9 @@ public class Sort {
         set.add(new Person2(2));
         printSet(set);
 
-        //Ok but what if we can`t implement Comparable? We can use Comparator in class ComparePerson1
+        /**
+         * Ok but what if we can`t implement Comparable? We can use {@link Comparator} in class ComparePerson1
+         */
         set = new TreeSet<>(new ComparePerson1());
 
         set.add(new Person1(1));
