@@ -3,7 +3,7 @@ package com.fo4ik.collections;
 import java.util.Iterator;
 import java.util.Queue;
 
-public class LearnQueue {
+public class QueueLearn {
     public static void main(String[] args) {
         Queue queue = new java.util.PriorityQueue<>();
         /**

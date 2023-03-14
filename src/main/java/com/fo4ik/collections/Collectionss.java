@@ -57,12 +57,27 @@ public class Collectionss {
 
 
         //Queue is a collection designed for holding elements prior to processing.
+        /**
+         * See emore details in {@link QueueLearn} class
+         */
         Queue queue = new PriorityQueue<>();
+
         //Set is a Collection that cannot contain duplicate elements.
+        /**
+         * See emore details in {@link SetLearn} class
+         */
         Set set = new HashSet<>();
+
         //TreeSet is a sorted set implementation. The elements are ordered using their natural ordering, or by a Comparator provided at set creation time, depending on which constructor is used.
+        /**
+         * See emore details in {@link TreeSetLearn} class
+         */
         Set treeSet = new TreeSet<>();
+
         //Map is an object that maps keys to values. A map cannot contain duplicate keys; each key can map to at most one value.
+        /**
+         * See emore details in {@link MapLearn} class
+         */
         Map map = new HashMap<>();
 
 
