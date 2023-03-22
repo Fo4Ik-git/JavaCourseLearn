@@ -24,6 +24,8 @@ Below there is a sign with links to folders in the project that you can click an
 | HashCode      | [Link](src/main/java/com/fo4ik/hashCode)          |
 | Collections   | [Link](src/main/java/com/fo4ik/collections)       |
 | Lists         | [Link](src/main/java/com/fo4ik/collections/lists) |
+| Generics      | [Link](src/main/java/com/fo4ik/generics)          |
+| Inner Class   | [Link](src/main/java/com/fo4ik/innerClass)        |
 
 
 ## Contributing
