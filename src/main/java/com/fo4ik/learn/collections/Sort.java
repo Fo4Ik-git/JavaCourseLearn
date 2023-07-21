@@ -1,4 +1,4 @@
-package com.fo4ik.collections;
+package com.fo4ik.learn.collections;
 
 import java.util.Comparator;
 import java.util.Set;
