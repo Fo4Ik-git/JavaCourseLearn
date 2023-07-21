@@ -1,4 +1,4 @@
-package com.fo4ik.assertions;
+package com.fo4ik.learn.assertions;
 
 public class Assertions {
     public static void main(String[] args) {

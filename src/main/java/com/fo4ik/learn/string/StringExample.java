@@ -1,4 +1,4 @@
-package com.fo4ik.string;
+package com.fo4ik.learn.string;
 
 public class StringExample {
 

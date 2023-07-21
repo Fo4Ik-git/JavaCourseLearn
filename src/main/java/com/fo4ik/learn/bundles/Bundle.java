@@ -1,4 +1,4 @@
-package com.fo4ik.bundles;
+package com.fo4ik.learn.bundles;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

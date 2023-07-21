@@ -1,4 +1,4 @@
-package com.fo4ik.serialization;
+package com.fo4ik.learn.serialization;
 
 import java.io.*;
 

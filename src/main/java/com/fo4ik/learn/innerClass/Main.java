@@ -1,4 +1,4 @@
-package com.fo4ik.innerClass;
+package com.fo4ik.learn.innerClass;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.fo4ik.dates;
+package com.fo4ik.learn.dates;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

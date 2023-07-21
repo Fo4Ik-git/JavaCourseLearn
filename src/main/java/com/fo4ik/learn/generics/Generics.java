@@ -1,4 +1,4 @@
-package com.fo4ik.generics;
+package com.fo4ik.learn.generics;
 
 import java.io.File;
 import java.io.Serializable;

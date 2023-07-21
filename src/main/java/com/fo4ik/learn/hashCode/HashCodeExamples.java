@@ -1,4 +1,4 @@
-package com.fo4ik.hashCode;
+package com.fo4ik.learn.hashCode;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.fo4ik.variable;
+package com.fo4ik.learn.variable;
 
 import java.util.*;
 

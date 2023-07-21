@@ -1,6 +1,4 @@
-package com.fo4ik.foreach;
-
-import java.security.spec.RSAOtherPrimeInfo;
+package com.fo4ik.learn.foreach;
 
 public class Foreach {
 

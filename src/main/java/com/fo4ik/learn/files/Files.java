@@ -1,4 +1,4 @@
-package com.fo4ik.files;
+package com.fo4ik.learn.files;
 
 import java.io.*;
 
