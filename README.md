@@ -28,6 +28,7 @@ Below there is a sign with links to folders in the project that you can click an
 | Inner Class   | [Link](src/main/java/com/fo4ik/learn/innerClass)        |
 | Stack/Queue   | [Link](src/main/java/com/fo4ik/learn/stack)             |
 | Graph         | [Link](src/main/java/com/fo4ik/learn/graph)             |
+| Tree          | [Link](src/main/java/com/fo4ik/learn/tree)              |
 
 
 ## Contributing
