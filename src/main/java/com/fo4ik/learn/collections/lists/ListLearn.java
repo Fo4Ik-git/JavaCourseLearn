@@ -1,7 +1,6 @@
 package com.fo4ik.learn.collections.lists;
 
 import java.util.*;
-import com.fo4ik.collections.*;
 import com.fo4ik.learn.collections.QueueLearn;
 
 public class ListLearn {
