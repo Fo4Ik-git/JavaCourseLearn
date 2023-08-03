@@ -9,9 +9,9 @@ Below there is a sign with links to folders in the project that you can click an
 ## Table of contents
 
 
-| Name          | Link                                              |
-|---------------|---------------------------------------------------|
-| Variables     | [Link](src/main/java/com/fo4ik/learn/variable)    |
+| Name          | Link                                                    | 
+|---------------|---------------------------------------------------------|
+| Variables     | [Link](src/main/java/com/fo4ik/learn/variable)          |
 | String        | [Link](src/main/java/com/fo4ik/learn/string)            |
 | Methods       | [Link](src/main/java/com/fo4ik/learn/methods)           |
 | Dates         | [Link](src/main/java/com/fo4ik/learn/dates)             |
@@ -26,6 +26,7 @@ Below there is a sign with links to folders in the project that you can click an
 | Lists         | [Link](src/main/java/com/fo4ik/learn/collections/lists) |
 | Generics      | [Link](src/main/java/com/fo4ik/learn/generics)          |
 | Inner Class   | [Link](src/main/java/com/fo4ik/learn/innerClass)        |
+| Stack/Queue   | [Link](src/main/java/com/fo4ik/learn/stack)             |
 | Graph         | [Link](src/main/java/com/fo4ik/learn/graph)             |
 
 
